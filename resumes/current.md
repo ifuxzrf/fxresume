@@ -14,7 +14,7 @@ tooltips:
    hard: |
       JVM调优、性能问题、内存泄漏、Bug定位等
 ---
-<h1 align="center">李超</h1>
+<h1 align="center">johnsonzhu</h1>
 <p align="center">
  15658109965 &nbsp;|&nbsp;  relengxing@outlook.com
 </p>
@@ -40,9 +40,9 @@ tooltips:
 
 | 类别 | 技能 |
 |:---|:---|
-| **语言** | Java（精通）、Go（熟悉）、Python（熟悉） |
-| **框架** | Spring、SpringBoot、SpringCloud、Mybatis、Gin |
-| **中间件** | MySQL、Redis、Kafka |
+| **语言** | Python（精通）、Go（熟悉）、Java（熟悉） |
+| **框架** | Django、Flask、Gin |
+| **中间件** | MySQL、Redis、Mongo、Kafka、RocketMQ |
 | **运维** | Linux、Docker、Kubernetes、Jenkins、DevOps |
 | **其他** | 熟练使用AI编程，开发过Web项目、小程序、桌面软件等 |
 
