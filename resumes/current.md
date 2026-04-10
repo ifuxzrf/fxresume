@@ -16,7 +16,7 @@ tooltips:
 ---
 <h1 align="center">johnsonzhu</h1>
 <p align="center">
- 15658109965 &nbsp;|&nbsp;  relengxing@outlook.com
+ 13267218707 &nbsp;|&nbsp;  234522612@qq.com
 </p>
 
 ---
