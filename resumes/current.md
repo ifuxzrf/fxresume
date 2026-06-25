@@ -16,7 +16,7 @@ tooltips:
 ---
 <h1 align="center">johnsonzhu</h1>
 <p align="center">
- 13267218707 &nbsp;|&nbsp;  234522612@qq.com
+ 13622316717 &nbsp;|&nbsp;  234522612@qq.com
 </p>
 
 ---
@@ -28,11 +28,13 @@ tooltips:
 
 ---
 
-##  综合评价
+##  技能清单
 
-- **十年开发经验**，兼顾基础架构与业务开发，具备0到1的项目启动能力，能独立完成从方案设计到落地的全流程，运维。
-- **T型能力**，纵向深耕架构设计，擅长解决[三高系统](tt:tree-h)与[疑难杂症定位](tt:hard)；横向覆盖多技术栈，具备快速学习能力。
-- **综合素质**，善于跨角色沟通协作，注重团队合作。乐于分享经验，帮助团队共同成长。
+- **开发与自动化** Hermes、Cursor、trae辅助开发；Django+Vue全栈开发； Jenkins、Gitlab CI、JumpServer、Ansible自动化运维；Prometheus监控。
+- **容器与Kubernetes** Docker镜像、Compose编排与存储网络；参与K8S全生命周期（部署、Helm、Ingress、存储），快速定位NotReady、Pod启动失败、OOM Kill等故障。
+- **云平台与服务** 熟悉GCP、Aws云品台产品；熟练配置Ec2、Vpc、安全组、Rds、CloudFront、S3、Lambda、Iamrole等核心服务。
+- **数据库与中间件** 熟悉Mysql、Redis、MongoDB、Mq的部署、监控、数据迁移及备份相关的操作。
+- **IDC与网络硬件** 熟悉Vlan路由、ACL策略、华为防火墙/交换机；RAID及热备盘；NFS/SMB/CIFS存储协议；机柜空间规划、功耗及现场运维。
 
 ---
 
@@ -44,7 +46,7 @@ tooltips:
 | **框架** | Django、Flask、Gin |
 | **中间件** | MySQL、Redis、Mongo、Kafka、RocketMQ |
 | **运维** | Linux、Docker、Kubernetes、Jenkins、DevOps |
-| **其他** | 熟练使用AI编程，开发过Web项目、小程序、桌面软件等 |
+| **其他** | 熟练使用AI编程，开发过Devops运维平台、机房、云平台监控自动化平台 |
 
 ---
 
