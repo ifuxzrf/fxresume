@@ -30,6 +30,14 @@ tooltips:
 
 ##  综合评价
 
+- **十年开发经验**，兼顾基础架构与业务开发，具备0到1的项目启动能力，能独立完成从方案设计到落地的全流程。
+- **T型能力**，纵向深耕架构设计，擅长解决[三高系统](tt:tree-h)与[疑难杂症定位](tt:hard)；横向覆盖多技术栈，具备快速学习能力。
+- **综合素质**，善于跨角色沟通协作，注重团队合作。乐于分享经验，帮助团队共同成长。
+
+---
+
+##  技能清单
+
 - **开发与自动化**  
   Hermes / Trae / Cursor 辅助开发；Django + Vue 全栈开发；Jenkins、GitLab CI、JumpServer、Ansible 自动化运维；Prometheus 监控。
 - **容器与 Kubernetes**  
@@ -40,18 +48,6 @@ tooltips:
   MySQL、Redis、MongoDB、MQ 的部署、监控与备份。
 - **IDC 与网络硬件**  
   VLAN 路由、ACL 策略；华为防火墙/交换机；RAID 及热备盘；NFS/SMB/CIFS 存储协议；机柜空间规划、功耗及现场运维。
-
----
-
-##  技能清单
-
-| 类别 | 技能 |
-|:---|:---|
-| **语言** | Python（精通）、Go（熟悉）、Java（熟悉） |
-| **框架** | Django、Flask、Gin |
-| **中间件** | MySQL、Redis、Mongo、Kafka、RocketMQ |
-| **运维** | Linux、Docker、Kubernetes、Jenkins、DevOps |
-| **其他** | 熟练使用AI编程，开发过Devops运维平台、机房、云平台监控自动化平台 |
 
 ---
 
