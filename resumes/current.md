@@ -30,13 +30,16 @@ tooltips:
 
 ##  综合评价
 
-| 能力方向 | 个人优势 |
-|:---|:---|
-| **开发经验** | 十年开发经验，兼顾基础架构、业务开发与运维，具备从 0 到 1 的项目启动和落地能力 |
-| **架构能力** | 深耕高可用、高并发、高性能系统建设，熟悉系统设计、性能优化、稳定性治理与成本优化 |
-| **问题定位** | 擅长排查 JVM 调优、性能瓶颈、内存泄漏、线上故障等疑难问题，能快速定位并推动解决 |
-| **工程效率** | 熟悉 DevOps、自动化运维、CI/CD、监控告警与 AI 辅助开发，注重研发效率和交付质量 |
-| **协作成长** | 善于跨团队沟通协作，重视知识沉淀与经验分享，能够帮助团队共同成长 |
+- **开发与自动化**  
+  Hermes / Trae / Cursor 辅助开发；Django + Vue 全栈开发；Jenkins、GitLab CI、JumpServer、Ansible 自动化运维；Prometheus 监控。
+- **容器与 Kubernetes**  
+  Docker 镜像、Compose 编排及存储网络；K8s 全生命周期（部署、Helm、Ingress、存储），快速定位 NotReady、Pod 启动失败、OOM Kill 等故障。
+- **云平台与服务**  
+  GCP、AWS；熟练配置 EC2、VPC、安全组、RDS、CloudFront、S3、Lambda 等核心服务。
+- **数据库与中间件**  
+  MySQL、Redis、MongoDB、MQ 的部署、监控与备份。
+- **IDC 与网络硬件**  
+  VLAN 路由、ACL 策略；华为防火墙/交换机；RAID 及热备盘；NFS/SMB/CIFS 存储协议；机柜空间规划、功耗及现场运维。
 
 ---
 
