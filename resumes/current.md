@@ -30,23 +30,17 @@ tooltips:
 
 ##  技能清单
 
-- **开发与自动化** Hermes、Cursor、trae辅助开发；Django+Vue全栈开发； Jenkins、Gitlab CI、JumpServer、Ansible自动化运维；Prometheus监控。
-- **容器与Kubernetes** Docker镜像、Compose编排与存储网络；参与K8S全生命周期（部署、Helm、Ingress、存储），快速定位NotReady、Pod启动失败、OOM Kill等故障。
-- **云平台与服务** 熟悉GCP、Aws云品台产品；熟练配置Ec2、Vpc、安全组、Rds、CloudFront、S3、Lambda、Iamrole等核心服务。
-- **数据库与中间件** 熟悉Mysql、Redis、MongoDB、Mq的部署、监控、数据迁移及备份相关的操作。
-- **IDC与网络硬件** 熟悉Vlan路由、ACL策略、华为防火墙/交换机；RAID及热备盘；NFS/SMB/CIFS存储协议；机柜空间规划、功耗及现场运维。
-
----
-
-##  技能清单
-
 | 类别 | 技能 |
 |:---|:---|
-| **语言** | Python（精通）、Go（熟悉）、Java（熟悉） |
-| **框架** | Django、Flask、Gin |
-| **中间件** | MySQL、Redis、Mongo、Kafka、RocketMQ |
-| **运维** | Linux、Docker、Kubernetes、Jenkins、DevOps |
-| **其他** | 熟练使用AI编程，开发过Devops运维平台、机房、云平台监控自动化平台 |
+| **语言** | Python（精通）· Go / Java（熟悉） |
+| **框架** | Django · Flask · Gin · Vue |
+| **中间件** | MySQL · Redis · MongoDB · Kafka · RocketMQ |
+| **开发与自动化** | Hermes、Cursor、Trae 辅助开发；Django + Vue 全栈；Jenkins、GitLab CI、JumpServer、Ansible；Prometheus 监控 |
+| **容器与 K8s** | Docker 镜像 / Compose 编排；K8s 部署、Helm、Ingress、存储；故障定位（NotReady、启动失败、OOM Kill） |
+| **云平台** | GCP、AWS（EC2、VPC、安全组、RDS、CloudFront、S3、Lambda、IAM Role 等） |
+| **数据库运维** | MySQL、Redis、MongoDB、MQ 的部署、监控、数据迁移及备份 |
+| **IDC 与网络** | VLAN / ACL、华为防火墙 / 交换机；RAID、NFS / SMB / CIFS；机柜规划、功耗及现场运维 |
+| **其他** | Linux、DevOps；AI 编程；自研 DevOps 运维平台、机房及云平台监控自动化平台 |
 
 ---
 
