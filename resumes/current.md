@@ -28,19 +28,27 @@ tooltips:
 
 ---
 
+##  综合评价
+
+| 能力方向 | 个人优势 |
+|:---|:---|
+| **开发经验** | 十年开发经验，兼顾基础架构、业务开发与运维，具备从 0 到 1 的项目启动和落地能力 |
+| **架构能力** | 深耕高可用、高并发、高性能系统建设，熟悉系统设计、性能优化、稳定性治理与成本优化 |
+| **问题定位** | 擅长排查 JVM 调优、性能瓶颈、内存泄漏、线上故障等疑难问题，能快速定位并推动解决 |
+| **工程效率** | 熟悉 DevOps、自动化运维、CI/CD、监控告警与 AI 辅助开发，注重研发效率和交付质量 |
+| **协作成长** | 善于跨团队沟通协作，重视知识沉淀与经验分享，能够帮助团队共同成长 |
+
+---
+
 ##  技能清单
 
 | 类别 | 技能 |
 |:---|:---|
-| **语言** | Python（精通）· Go / Java（熟悉） |
-| **框架** | Django · Flask · Gin · Vue |
-| **中间件** | MySQL · Redis · MongoDB · Kafka · RocketMQ |
-| **开发与自动化** | Hermes、Cursor、Trae 辅助开发；Django + Vue 全栈；Jenkins、GitLab CI、JumpServer、Ansible；Prometheus 监控 |
-| **容器与 K8s** | Docker 镜像 / Compose 编排；K8s 部署、Helm、Ingress、存储；故障定位（NotReady、启动失败、OOM Kill） |
-| **云平台** | GCP、AWS（EC2、VPC、安全组、RDS、CloudFront、S3、Lambda、IAM Role 等） |
-| **数据库运维** | MySQL、Redis、MongoDB、MQ 的部署、监控、数据迁移及备份 |
-| **IDC 与网络** | VLAN / ACL、华为防火墙 / 交换机；RAID、NFS / SMB / CIFS；机柜规划、功耗及现场运维 |
-| **其他** | Linux、DevOps；AI 编程；自研 DevOps 运维平台、机房及云平台监控自动化平台 |
+| **语言** | Python（精通）、Go（熟悉）、Java（熟悉） |
+| **框架** | Django、Flask、Gin |
+| **中间件** | MySQL、Redis、Mongo、Kafka、RocketMQ |
+| **运维** | Linux、Docker、Kubernetes、Jenkins、DevOps |
+| **其他** | 熟练使用AI编程，开发过Devops运维平台、机房、云平台监控自动化平台 |
 
 ---
 
