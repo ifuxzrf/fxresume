@@ -502,6 +502,7 @@ body {
 @media print {
   :root {
     background: #ffffff;
+    font-size: 11px;
   }
 
   body {
@@ -525,6 +526,38 @@ body {
     border-radius: 0;
     padding: 10mm 8mm;
     background: #ffffff;
+    font-size: 11px;
+    line-height: 1.45;
+  }
+
+  .resume-content h1 {
+    font-size: 20px;
+  }
+
+  .resume-content h2 {
+    font-size: 15px;
+  }
+
+  .resume-content h3 {
+    font-size: 12.5px;
+  }
+
+  .resume-content p {
+    margin: 0.35em 0;
+  }
+
+  .resume-content ul,
+  .resume-content ol {
+    margin: 0.35em 0;
+  }
+
+  .resume-content li {
+    margin: 0.12em 0;
+  }
+
+  .resume-content table th,
+  .resume-content table td {
+    padding: 6px 8px;
   }
 
   .page-break {
@@ -532,7 +565,16 @@ body {
     page-break-before: always;
   }
 
-  .work-details,
+  .work-details {
+    break-inside: auto;
+    page-break-inside: auto;
+  }
+
+  .work-summary {
+    break-after: avoid;
+    page-break-after: avoid;
+  }
+
   .project-details {
     break-inside: avoid;
     page-break-inside: avoid;

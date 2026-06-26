@@ -6,6 +6,18 @@ import OnDutyPage from "./pages/OnDutyPage";
 import ResumeRoutePage from "./pages/ResumeRoutePage";
 import "./styles/resume.css";
 
+if (import.meta.hot) {
+  import.meta.hot.on("vite:beforeUpdate", (payload) => {
+    const resumeChanged = payload.updates?.some((update) =>
+      update.path.includes("/resumes/current.md")
+    );
+
+    if (resumeChanged) {
+      window.location.reload();
+    }
+  });
+}
+
 ReactDOM.createRoot(document.getElementById("root")).render(
   <React.StrictMode>
     <HashRouter>
