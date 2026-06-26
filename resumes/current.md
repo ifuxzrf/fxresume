@@ -4,7 +4,7 @@ date: 2019-10-24 10:24:00
 pdf_download: resume.pdf
 tooltips:
    cjlu: |
-    重庆大学 
+    985、211 
    vertx: |
      JVM 高性能异步框架  
    invoice: |
@@ -14,7 +14,7 @@ tooltips:
    hard: |
       JVM调优、性能问题、内存泄漏、Bug定位等
 ---
-<h1 align="center">朱汝锋</h1>
+<h1 align="center">JohnsonZhu</h1>
 <p align="center">
  13622316717 &nbsp;|&nbsp;  234522612@qq.com
 </p>
